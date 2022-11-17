@@ -83,7 +83,7 @@ The admin interface files tree is the following:
   - index.html : this page contains the dashboard and some useful charts (from google charts) .
   - login.html
   - table.html
-  - 
+  
 The user interface files tree is the following:
   - assets (folder)
   - index.html
